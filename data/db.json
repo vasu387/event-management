@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "yres",
+      "email": "gfxgd@gmail.com",
+      "password": "tyfydy",
+      "id": 1
+    },
+    {
+      "name": "ab",
+      "email": "ab@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "yu",
+      "email": "yu@gmail.com",
+      "password": "yuyu",
+      "id": 3
+    },
+    {
+      "name": "kavin",
+      "email": "kavin@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
